@@ -1,0 +1,20 @@
+{
+  "name": "mubra-ai-8v1",
+  "version": "1.0.0",
+  "description": "Mubra AI 8.v1 — A/L Chemistry Intelligent Guru for Sri Lankan Students",
+  "main": "api/chat.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  },
+  "author": "Mubra Webworks",
+  "license": "MIT"
+}
